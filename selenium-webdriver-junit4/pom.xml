@@ -18,7 +18,7 @@
         <junit4.version>4.13.2</junit4.version>
         <assertj.version>3.26.0</assertj.version>
         <maven-surefire-plugin.version>3.2.5</maven-surefire-plugin.version>
-        <wdm.version>5.8.0</wdm.version>
+        <wdm.version>5.9.1</wdm.version>
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
